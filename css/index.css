@@ -57,7 +57,6 @@ body {
     color: #ffffff;
 }
 
-/* Destaques da Equipe */
 .highlights {
     display: flex;
     justify-content: center;
@@ -65,6 +64,8 @@ body {
     padding: 2rem 2rem 4rem;
     flex-wrap: wrap;
 }
+
+
 
 /* Estilo dos Cards */
 .highlight-card {
@@ -80,6 +81,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    
 }
 
 .highlight-card:hover {
@@ -95,7 +97,7 @@ body {
 }
 
 /* Botões Específicos para cada Card */
-.btn-karoo-chat, .btn-karoo-bot, .btn-alterdata-backup, .btn-bunker {
+.btn-karoo-chat, .btn-karoo-bot, .btn-alterdata-backup, .btn-bunker, .btn-karoo-kb, .btn-karoo-ia{
     display: inline-block;
     color: #ffffff;
     padding: 0.5rem 1rem;
