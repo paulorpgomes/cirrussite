@@ -9,7 +9,7 @@ body {
 /* Container com Degradê */
 .main-container {
     background: linear-gradient(to bottom, #e0f4f7, #ffffff);
-    padding: 4rem 0;
+    padding: 6rem 0;
 }
 
 /* Seção Hero */
@@ -114,4 +114,10 @@ body {
 .btn-alterdata-backup:hover,
 .btn-bunker:hover {
     background-color: #143060;
+}
+
+.logo-responsive {
+    width: 150px;
+    height: auto;
+    margin-left: -125px;
 }
