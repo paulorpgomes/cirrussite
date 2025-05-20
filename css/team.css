@@ -26,14 +26,8 @@ nav a:hover::after {
     text-align: center;
 }
 
-.team-section h4 {
-    font-size: 3rem;
-    color: #1A3D7C;
-    margin-bottom: 2rem;
-}
-
 .team-section h2 {
-    font-size: 1.5rem;
+    font-size: 2rem;
     color: #1A3D7C; /* Azul escuro */
     margin-bottom: 1rem;
 }
